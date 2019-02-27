@@ -34,7 +34,7 @@ def aiuto():
 	print " "
 	print "-h  --help		View this screen"
 	print "-m  --manual		Enable manual scanning (Required: host and port)"
-	print "-a  --automatic	Enable automatic scanning (Required: host)"
+	print "-a  --automatic		Enable automatic scanning (Required: host)"
 	print "-s  --scan		Enable searching for hosts on the network (Required: network interface and gateway)"
 	print "-b  --backdoor		Enable 'backdoor' mode (Required: host and port for the listener)"
 	print "-d  --admin-directory	Enable the search for admin directory (Required: URL)"
