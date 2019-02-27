@@ -19,8 +19,8 @@ Soon this tool will be updated, adding new features and fixing existing ones
 # Help
 <code>knifenet.py --help</code>
 # Use
-<code>knifenet.py [topic] [host/port/interface/gateway/URL/file]</code>
-Examples:
+<code>knifenet.py [topic] [host/port/interface/gateway/URL/file]</code><br>
+Examples:<br>
 <code>knifenet.py -a -H 192.168.1.15</code>
 <code>knifenet.py --backdoor -H 192.168.1.15 -p 8888</code>
 <code>knifenet.py -e -t -u http://www.example.com/</code>
