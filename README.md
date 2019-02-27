@@ -9,7 +9,7 @@ The idea was to create a useful tool for basic network functions, without additi
   <li>Manual or automatic port scan</li>
   <li>Search for hosts on a network</li>
   <li>Creation and listening to backdoors</li>
-  <li>admin directory searcher</li>
+  <li>Admin directory searcher</li>
   <li>Extract links from a website</li>
   <li>TCP chat</li>
   <li>Traffic sniff on the local host</li>
