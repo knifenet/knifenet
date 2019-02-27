@@ -1,5 +1,5 @@
 # knifenet
-The Swiss knife of networking
+The Swiss knife of networking<br>
 Programmed in <b>python 2.7.12</b>
 
 The idea was to create a useful tool for basic network functions, without additional files or additional libraries to download.
@@ -21,6 +21,6 @@ Soon this tool will be updated, adding new features and fixing existing ones
 # Use
 <code>knifenet.py [topic] [host/port/interface/gateway/URL/file]</code><br>
 Examples:<br>
-<code>knifenet.py -a -H 192.168.1.15</code>
-<code>knifenet.py --backdoor -H 192.168.1.15 -p 8888</code>
+<code>knifenet.py -a -H 192.168.1.15</code><br>
+<code>knifenet.py --backdoor -H 192.168.1.15 -p 8888</code><br>
 <code>knifenet.py -e -t -u http://www.example.com/</code>
